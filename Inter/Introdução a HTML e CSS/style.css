@@ -1,0 +1,38 @@
+body{
+ background:rgb(139, 126, 126);
+ margin: auto;
+ max-width: 900px;
+}
+
+
+#title , .subtitle , .post_title{
+    color: rgb(27, 26, 26);
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15 px;
+}
+
+.post{
+    background: white;
+    padding: 15px;
+    border: 3px solid black;
+    margin : 0;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15 px;
+}
+.photo{
+    border: 1px black;
+}
+.contact_list{
+    list-style-type: none;
+    padding-left : 15px ;
+}
